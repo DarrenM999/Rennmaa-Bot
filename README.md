@@ -33,7 +33,7 @@
 > pkg install yarn
 > npm install -g pm2
 > git clone https://github.com/DarrenM999/Rennmaa-Bot
-> cd Rennmaa-V1
+> cd Rennmaa-Bot
 > yarn
 > npm install
 ```
